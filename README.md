@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gowthamkumar5739
+- 👋 Hi, I’m @Gowthamkumar
 - 👀 I’m interested in electronics
 - 🌱 I’m currently learning Ai and ML
 - 💞️ I’m looking to collaborate on python
